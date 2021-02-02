@@ -10,7 +10,6 @@ Tech Stack:
 - Database: Oracle Sql, MySql, PostgreSQL, MongoDB
 - Build tools: Maven
 - Servers: Tomcat
-- Cloud: AWS
 - Version Control: Git
 - IDE: Intellij IDEA, VS Code, Eclipse
 - Operating System: Linux, Mac, Windows
