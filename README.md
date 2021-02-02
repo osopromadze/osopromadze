@@ -13,7 +13,7 @@ Tech Stack:
 - Version Control: Git
 - IDE: Intellij IDEA, VS Code, Eclipse
 - Operating System: Linux, Mac, Windows
-- Project Management:Scrum
+- Project Management: Scrum
 
 Soft Skills:
 
