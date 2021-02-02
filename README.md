@@ -12,7 +12,6 @@ Tech Stack:
 - Servers: Tomcat
 - Cloud: AWS
 - Version Control: Git
-- Prototyping: JustInMind
 - IDE: Intellij IDEA, VS Code, Eclipse
 - Operating System: Linux, Mac, Windows
 - Project Management:Scrum
