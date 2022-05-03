@@ -1,11 +1,11 @@
 ### Hi there 👋
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="Omari Sopromadze's LinkedIn" height='30'>](https://www.linkedin.com/in/omarisopromadze/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt="Omari Sopromadze's StackOverflow" height='30'>](https://stackoverflow.com/users/5032512) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" alt="Omari Sopromadze's Gmail">](mailto:omari.sopromadze@gmail.com) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" alt="Omari Sopromadze's Twitter">](https://twitter.com/OSopromadze) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt="Omari Sopromadze's Website" height='30'>](https://sopromadze.com/)
 
-2+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
+3+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack.  I am always open in working with new tech stack. Following are my current tech stack.
 
 Tech Stack:
 
-- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
+- Backend: Java (8, 11), Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
 - Frontend: HTML5, CSS3, JavaScript, TypeScript, Jquery, React
 - Database: Oracle Sql, MySql, PostgreSQL, MongoDB
 - Build tools: Maven
